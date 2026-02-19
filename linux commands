@@ -1,0 +1,42 @@
+ mkdir mani
+   24  mkdir man
+   25  mkdir maa
+   26  cd maa
+   27  touch maa
+   28  12
+   29  11
+   30  ll
+   31  cat maa
+   32  vi maa
+   33  cat maa
+   34  top
+   35  cd
+   36  whoami
+   37  uptime
+   38  ip a
+   39  sudo -i
+   40  mkdir ashok
+   41  cd ashok
+   42  touch ashok
+   43  vi ashok
+   44  cat ashok
+   45  cat /proc/cpuinfo
+   46  sudo
+   47  sudo -i
+   48  mkdir aws
+   49  cd aws
+   50  apt install htop
+   51  sudo -i
+   52  mkdir ashish
+   53  ls
+   54  cd ashish
+   55  touch ashu
+   56  cd ashu
+   57  vi ashu
+   58  mkdir pavan
+   59  cd pavan
+   60  touch pavan
+   61  ll
+   62  vi pavan
+   63  cat pavan
+   64  ls
